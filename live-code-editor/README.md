@@ -1,3 +1,10 @@
+## repo preview
+- https://youtu.be/YTp_ZvLWF3Y
+- https://github.com/codemirror/CodeMirror
+- https://github.com/scniro/react-codemirror2
+- https://github.com/nnnkit/html-css-editor
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
